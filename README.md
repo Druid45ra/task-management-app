@@ -1,5 +1,7 @@
 Task Management App
 A full-stack task management application similar to Trello, with drag-and-drop functionality, real-time collaboration, and user authentication.
+
+
 Features
 
 User authentication with Firebase
